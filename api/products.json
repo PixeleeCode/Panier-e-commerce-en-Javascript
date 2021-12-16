@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 100,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 200,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 300,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 400,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 500,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 600,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "price": 700,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "price": 800,
+        "image": "http://placehold.it/100x100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. "
+    }
+]

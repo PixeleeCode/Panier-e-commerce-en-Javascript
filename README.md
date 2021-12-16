@@ -1,1 +1,1 @@
-# Panier-e-commerce-en-Javascript
+# Panier e-commerce en Javascript
